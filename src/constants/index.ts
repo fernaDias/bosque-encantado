@@ -2,7 +2,7 @@ export const WHATSAPP_NUMBER = '5543991147316'
 export const WHATSAPP_MESSAGE = 'Olá! Gostaria de reservar uma vaga na Colônia de Férias Bosque Encantado! 🌳'
 export const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(WHATSAPP_MESSAGE)}`
 
-export const INSTAGRAM_URL = 'https://instagram.com/bosqueencantado'
+export const INSTAGRAM_URL = 'https://instagram.com/bosqueencantado.pr'
 
 export const EVENT_DATE = 'Julho de 2026'
 export const EVENT_TIME = 'das 13h às 18h'

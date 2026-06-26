@@ -30,7 +30,7 @@ describe('Footer', () => {
 
   it('displays Instagram link', () => {
     renderWithChakra(<Footer />)
-    expect(screen.getByText('@bosqueencantado')).toBeInTheDocument()
+    expect(screen.getByText('@bosqueencantado.pr')).toBeInTheDocument()
   })
 
   it('displays copyright', () => {

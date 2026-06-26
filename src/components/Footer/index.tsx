@@ -41,18 +41,7 @@ const Footer = () => {
           <Text textStyle="subtitle" color="white">
             Contato
           </Text>
-          <HStack
-            as={Link}
-            href={`tel:+55${PHONE.replace(/\D/g, '')}`}
-            color="gray.400"
-            _hover={{ color: 'white' }}
-            spacing={2}
-          >
-            <Icon as={FaPhone} />
-            <Text fontSize="sm">
-              {PHONE}
-            </Text>
-          </HStack>
+         
           <HStack
             as={Link}
             href={WHATSAPP_URL}
@@ -63,7 +52,7 @@ const Footer = () => {
           >
             <Icon as={FaWhatsapp} />
             <Text fontSize="sm">
-              WhatsApp
+              {PHONE}
             </Text>
           </HStack>
           <HStack
@@ -76,7 +65,7 @@ const Footer = () => {
           >
             <Icon as={FaInstagram} />
             <Text fontSize="sm">
-              @bosqueencantado
+              @bosqueencantado.pr
             </Text>
           </HStack>
         </VStack>
