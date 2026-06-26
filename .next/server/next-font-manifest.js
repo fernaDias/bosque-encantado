@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/fernanda.dias.silva/bosque-encantado/src/app/layout\":[\"static/media/bca7023bf625e650-s.p.woff2\",\"static/media/ee40bb094c99a29a-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
