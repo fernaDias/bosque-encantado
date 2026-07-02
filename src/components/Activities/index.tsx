@@ -169,15 +169,6 @@ const Activities = () => {
       <Section id="atividades">
         <VStack spacing={12}>
           <VStack spacing={3} textAlign="center" ref={titleRef}>
-            <Text
-              color="brand.orange"
-              fontWeight="700"
-              fontSize="sm"
-              textTransform="uppercase"
-              letterSpacing="wider"
-            >
-              🎉 Programação completa
-            </Text>
             <Heading
               textStyle="sectionTitle"
               color="brand.text"
@@ -192,7 +183,7 @@ const Activities = () => {
               color="gray.500"
               maxW="500px"
             >
-              12 atividades incríveis pensadas para estimular o corpo, a mente e o coração.
+              atividades incríveis pensadas para estimular o corpo, a mente e o coração.
             </Text>
           </VStack>
 

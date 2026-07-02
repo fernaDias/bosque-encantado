@@ -292,7 +292,7 @@ const Hero = () => {
             textShadow="0 2px 8px rgba(0,0,0,0.3)"
             maxW="600px"
           >
-            Experiências ao ar livre para crianças — natureza, diversão e memórias inesquecíveis! ✨
+            Experiências ao ar livre para crianças: natureza, diversão e memórias inesquecíveis! ✨
           </Text>
 
           <Box ref={buttonRef} pt={2}>

@@ -246,16 +246,11 @@ export const FAQ_ITEMS = [
   },
   {
     id: 4,
-    question: 'Qual é a relação de monitores por criança?',
-    answer: 'Trabalhamos com no máximo 10 crianças por monitor, garantindo atenção individualizada e total segurança durante todas as atividades.',
-  },
-  {
-    id: 5,
     question: 'O que acontece em caso de chuva?',
     answer: 'Temos um plano B completo com atividades cobertas igualmente divertidas. Sua criança nunca vai perder a diversão!',
   },
   {
-    id: 6,
+    id: 5,
     question: 'Como faço para reservar uma vaga?',
     answer: 'É simples! Clique no botão de WhatsApp em qualquer parte da página e fale diretamente conosco. As vagas são limitadas, então não deixe para depois!',
   },

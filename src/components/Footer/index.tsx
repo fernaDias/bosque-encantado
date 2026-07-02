@@ -32,7 +32,7 @@ const Footer = () => {
             </Text>
           </HStack>
           <Text color="gray.400" fontSize="sm" maxW="280px">
-            Experiências ao ar livre para crianças — natureza, diversão e memórias inesquecíveis.
+            Experiências ao ar livre para crianças: natureza, diversão e memórias inesquecíveis.
           </Text>
         </VStack>
 
